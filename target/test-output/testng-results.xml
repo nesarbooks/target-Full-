@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14452" started-at="2019-11-08T01:15:21Z" finished-at="2019-11-08T01:15:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12292" started-at="2019-11-08T01:15:21Z" finished-at="2019-11-08T01:15:34Z">
+      <class name="com.target.target.testNG_target">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.target.target.testNG_target@4b9e13df]" name="beforeClass" is-config="true" duration-ms="10460" started-at="2019-11-08T01:15:21Z" finished-at="2019-11-08T01:15:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.target.target.testNG_target@4b9e13df]" name="f" duration-ms="711" started-at="2019-11-08T01:15:32Z" finished-at="2019-11-08T01:15:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f2()[pri:1, instance:com.target.target.testNG_target@4b9e13df]" name="f2" duration-ms="1097" started-at="2019-11-08T01:15:32Z" finished-at="2019-11-08T01:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.target.target.testNG_target@4b9e13df]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-11-08T01:15:34Z" finished-at="2019-11-08T01:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.target.target.testNG_target -->
+    </test> <!-- Test -->
+    <test name="Test2" duration-ms="14452" started-at="2019-11-08T01:15:21Z" finished-at="2019-11-08T01:15:36Z">
+      <class name="com.target.target.testNG_target">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.target.target.testNG_target@6d4b1c02]" name="beforeClass" is-config="true" duration-ms="10647" started-at="2019-11-08T01:15:21Z" finished-at="2019-11-08T01:15:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.target.target.testNG_target@6d4b1c02]" name="f" duration-ms="1643" started-at="2019-11-08T01:15:32Z" finished-at="2019-11-08T01:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f2()[pri:1, instance:com.target.target.testNG_target@6d4b1c02]" name="f2" duration-ms="2151" started-at="2019-11-08T01:15:34Z" finished-at="2019-11-08T01:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.target.target.testNG_target@6d4b1c02]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-11-08T01:15:36Z" finished-at="2019-11-08T01:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.target.target.testNG_target -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
